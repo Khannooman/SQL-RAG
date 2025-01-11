@@ -1,0 +1,6 @@
+langchain-groq
+sqlalchemy  
+langchain 
+psycopg2-binary
+flask
+python-dotenv
